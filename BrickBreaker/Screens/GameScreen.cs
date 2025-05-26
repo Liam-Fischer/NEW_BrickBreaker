@@ -406,7 +406,7 @@ namespace BrickBreaker
 
             // Draw collected powerups as squares in top right
             int collectedX = 850;
-            int collectedY = 500;
+            int collectedY = 640;
             foreach (String type in activePowerupTypes)
             {
                 collectedX -= 30;
